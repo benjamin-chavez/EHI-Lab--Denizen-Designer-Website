@@ -1,0 +1,9 @@
+Project Setup:
+
+1. Created the new projected
+cmd - 
+      rails new \
+        --database postgresql \
+        --webpack \
+        -m https://raw.githubusercontent.com/lewagon/rails-templates/master/devise.rb \
+        EHI-Lab_Denizen-Designer-Website
