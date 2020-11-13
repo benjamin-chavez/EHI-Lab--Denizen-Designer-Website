@@ -1,9 +1,15 @@
 Project Setup:
 
 1. Created the new projected
-cmd - 
-      rails new \
-        --database postgresql \
-        --webpack \
-        -m https://raw.githubusercontent.com/lewagon/rails-templates/master/devise.rb \
+  cmd: 
+      - rails new \
+          --database postgresql \
+          --webpack \
+          -m https://raw.githubusercontent.com/lewagon/rails-templates/master/devise.rb \
         EHI-Lab_Denizen-Designer-Website
+
+2. Removed boilerplate's Git history
+  cmd:  - rm -rf .git
+
+3. Creating Database Models:
+  cmd:  - rails g model Participant first_name:string last_name:string designer_type:string bio:string interviewed:boolean
