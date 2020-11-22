@@ -20,7 +20,6 @@ User.create!({
   admin: true
 })
 
-
 # PARTICIPANT SEEDS
 puts 'Creating Participant Seeds...'
 
