@@ -15,7 +15,7 @@
 // export default participant;
 import React, { Component } from 'react';
 
-import './Participant.css'
+import './Participant.scss'
 
 class Participant extends Component {
   // handleClick = () => {
