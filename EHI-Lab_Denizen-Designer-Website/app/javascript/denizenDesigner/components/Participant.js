@@ -29,12 +29,11 @@ class Participant extends Component {
     
     return (
       <div className="Participant">
-        <p>{this.props.firstName}</p>
-        <p>{this.props.lastName}</p>
-        <p>{this.props.designerType}</p>
+        <p>Name: {this.props.firstName} {this.props.lastName}</p>
+        <p>Role: {this.props.designerType}</p>
         <p>{this.props.bio}</p>
         <p>{this.props.interviewed}</p>
-        <p>{this.props.email}</p>
+        <p>Contact: {this.props.email}</p>
       </div>
     );
   }
