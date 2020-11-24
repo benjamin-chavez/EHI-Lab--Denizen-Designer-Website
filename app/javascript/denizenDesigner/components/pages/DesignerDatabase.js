@@ -1,10 +1,16 @@
-import React, { Fragment } from 'react';
+import React, { useState, Fragment } from 'react';
+import participantdata from '../../data/participants';
+import ParticipantList from '../ParticipantList';
 
 const DesignerDatabase = () => {
+  const[participants, setParticipants] = useState(participantdata)  
+
   return (
-    <div>
+    <Fragment>
       <h1>DesignerDatabase Page</h1>
-    </div>
+      <ParticipantList participants={participantdata}
+          />
+    </Fragment>
   )
 }
 

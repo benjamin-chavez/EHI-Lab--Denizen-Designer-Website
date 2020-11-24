@@ -39,8 +39,8 @@ class App extends Component {
               <Route exact path='/resources' component={Resources} />
             </Switch>
           </div>
-          <ParticipantList participants={this.state.participants}
-          />
+          {/* <ParticipantList participants={this.state.participants}
+          /> */}
           <WorkCard />
         </div>
       </Router>

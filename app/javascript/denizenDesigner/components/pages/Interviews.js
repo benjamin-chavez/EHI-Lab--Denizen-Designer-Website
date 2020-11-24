@@ -1,14 +1,15 @@
-import React, { Fragment } from 'react';
-// import participants from '../../data/participants';
-// import ParticipantList from '../ParticipantList';
+import React, { useState, Fragment } from 'react';
+import participantdata from '../../data/participants';
+import ParticipantList from '../ParticipantList';
 
 const Interviews = () => {
-    
+  const[participants, setParticipants] = useState(participantdata)  
+
   return (
     <Fragment>
       <h1>Interviews Page</h1>
-      {/* <ParticipantList participants={this.state.participants}
-          /> */}
+      <ParticipantList participants={participantdata}
+          />
     </Fragment>
   )
 }

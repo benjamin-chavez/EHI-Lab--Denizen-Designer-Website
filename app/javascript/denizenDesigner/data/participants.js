@@ -1,4 +1,4 @@
-const participants = [
+const participantdata = [
   {
     first_name: "Andrea",
     last_name: "Ngan",
@@ -249,4 +249,4 @@ const participants = [
   }
 ];
 
-export default participants;
+export default participantdata;
