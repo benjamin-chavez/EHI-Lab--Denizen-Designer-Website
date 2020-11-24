@@ -7,7 +7,7 @@ const DesignerDatabase = () => {
 
   return (
     <Fragment>
-      <h1>DesignerDatabase Page</h1>
+      <h1>Designer Database Page</h1>
       <ParticipantList participants={participantdata}
           />
     </Fragment>

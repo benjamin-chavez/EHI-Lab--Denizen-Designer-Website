@@ -1,10 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+import './NavbarSecondary.scss';
+
 const NavbarSecondary = () => {
   return (
-    <div>
-      <ul>
+    <div className="Nav-Secondary">
+      <ul className="List-Inline">
         <li>
           <Link to='/'>Home</Link>
         </li>
@@ -15,7 +17,7 @@ const NavbarSecondary = () => {
           <Link to='/report'>Report</Link>
         </li>
         <li>
-          <Link to='/designerdatabase'>DesignerDatabase</Link>
+          <Link to='/designerdatabase'>Designer Database</Link>
         </li>
         <li>
           <Link to='/quotes'>Quotes</Link>
