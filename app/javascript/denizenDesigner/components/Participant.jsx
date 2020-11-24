@@ -15,7 +15,6 @@
 // export default participant;
 import React, { Component } from 'react';
 
-// import './participant.scss'
 import '../../../assets/stylesheets/components/_participant.scss'
 
 class Participant extends Component {
