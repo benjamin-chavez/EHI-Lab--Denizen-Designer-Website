@@ -4,9 +4,16 @@ Rails.application.routes.draw do
   # root to: 'participants#index'
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
 
-  resources :participants
-  # get "posts/:id", to: 'pages#home' 
+  # resources :participants
+  get "/:id", to: 'pages#home' 
 
+
+  # API
+  namespace :api, defaults: { format: :json } do
+    namespace :v1 do
+      resources :participants, only: [ :index, :show]
+    end
+  end
 
   # API routing
   # namespace :api, defaults: { format: :json } do
