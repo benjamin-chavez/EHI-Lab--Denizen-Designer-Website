@@ -1,11 +1,11 @@
-const participantdata = [
+const participants = [
   {
     first_name: "Andrea",
     last_name: "Ngan",
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "andrea@creativeresco.org"
+    email: "andrea@creativeresco.org",
   },
   {
     first_name: "Anjanette",
@@ -13,7 +13,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: ""
+    email: "",
   },
   {
     first_name: "Brooke",
@@ -21,7 +21,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "brooke@reflexdc.com"
+    email: "brooke@reflexdc.com",
   },
   {
     first_name: "Bryan",
@@ -29,7 +29,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "bryan@colloqate.org"
+    email: "bryan@colloqate.org",
   },
   {
     first_name: "Cedric",
@@ -37,7 +37,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "cedricdouglasdesign@gmail.com"
+    email: "cedricdouglasdesign@gmail.com",
   },
   {
     first_name: "Chris",
@@ -45,7 +45,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "crudd2@id.iit.edu"
+    email: "crudd2@id.iit.edu",
   },
   {
     first_name: "Claudia",
@@ -53,7 +53,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "claudia@studiofuldesign.com"
+    email: "claudia@studiofuldesign.com",
   },
   {
     first_name: "Denise Shante",
@@ -61,7 +61,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "design@deniseshantebrown.com"
+    email: "design@deniseshantebrown.com",
   },
   {
     first_name: "Elle",
@@ -69,7 +69,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "elleramel@gmail.com"
+    email: "elleramel@gmail.com",
   },
   {
     first_name: "Forest",
@@ -77,7 +77,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "fgregg@datamade.us"
+    email: "fgregg@datamade.us",
   },
   {
     first_name: "Jenny",
@@ -85,7 +85,7 @@ const participantdata = [
     designer_type: "UX",
     bio: "",
     interviewed: true,
-    email: "jwj.lin@gmail.com"
+    email: "jwj.lin@gmail.com",
   },
   {
     first_name: "Julia",
@@ -93,7 +93,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "julia.kong@reflexdc.com"
+    email: "julia.kong@reflexdc.com",
   },
   {
     first_name: "Katanya",
@@ -101,7 +101,7 @@ const participantdata = [
     designer_type: "Urban Planner",
     bio: "",
     interviewed: true,
-    email: "urbandreamsofmine@gmail.com"
+    email: "urbandreamsofmine@gmail.com",
   },
   {
     first_name: "Katherine",
@@ -109,7 +109,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "katherine@latentdesign.net"
+    email: "katherine@latentdesign.net",
   },
   {
     first_name: "Keesha",
@@ -117,7 +117,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "keesha.gaskins@gmail.com"
+    email: "keesha.gaskins@gmail.com",
   },
   {
     first_name: "Kenneth",
@@ -125,7 +125,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "kdb@ds4si.org"
+    email: "kdb@ds4si.org",
   },
   {
     first_name: "Lorin",
@@ -133,7 +133,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "extrartinaire@gmail.com"
+    email: "extrartinaire@gmail.com",
   },
   {
     first_name: "N'Deye",
@@ -141,7 +141,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "ndiakhate93@gmail.com"
+    email: "ndiakhate93@gmail.com",
   },
   {
     first_name: "Nour",
@@ -149,7 +149,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "narafat@umich.edu"
+    email: "narafat@umich.edu",
   },
   {
     first_name: "Olivia",
@@ -157,7 +157,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "olivia.nava@gobeegroup.com"
+    email: "olivia.nava@gobeegroup.com",
   },
   {
     first_name: "Sabiha",
@@ -165,7 +165,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "sabiha@designaction.org "
+    email: "sabiha@designaction.org ",
   },
   {
     first_name: "Shanelle",
@@ -173,7 +173,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "helloshanelle@gmail.com"
+    email: "helloshanelle@gmail.com",
   },
   {
     first_name: "Sloan",
@@ -181,7 +181,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "therealsloanleo@gmail.com"
+    email: "therealsloanleo@gmail.com",
   },
   {
     first_name: "Stephanie",
@@ -189,7 +189,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "me@stephanieariburrell.com"
+    email: "me@stephanieariburrell.com",
   },
   {
     first_name: "Taylor",
@@ -197,7 +197,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: ""
+    email: "",
   },
   {
     first_name: "Taylor",
@@ -205,7 +205,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: ""
+    email: "",
   },
   {
     first_name: "Tonika",
@@ -213,7 +213,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: "tonika.johnson@gmail.com"
+    email: "tonika.johnson@gmail.com",
   },
   {
     first_name: "Victoria",
@@ -221,7 +221,7 @@ const participantdata = [
     designer_type: "Graphic",
     bio: "",
     interviewed: true,
-    email: "veegs42@gmail.com"
+    email: "veegs42@gmail.com",
   },
   {
     first_name: "Fo",
@@ -229,7 +229,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: ""
+    email: "",
   },
   {
     first_name: "Michelle",
@@ -237,7 +237,7 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: ""
+    email: "",
   },
   {
     first_name: "Gabe",
@@ -245,8 +245,8 @@ const participantdata = [
     designer_type: "Designer",
     bio: "",
     interviewed: true,
-    email: ""
-  }
+    email: "",
+  },
 ];
 
-export default participantdata;
+export default participants;
