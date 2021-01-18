@@ -8,7 +8,8 @@
     "created_at": "2020-11-22T22:42:06.740Z",
     "updated_at": "2020-11-22T22:42:06.740Z",
     "interviewed": true,
-    "email": "andrea@creativeresco.org"
+    "email": "andrea@creativeresco.org",
+    "location": "DT"
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "created_at": "2020-11-22T22:42:06.749Z",
     "updated_at": "2020-11-22T22:42:06.749Z",
     "interviewed": true,
-    "email": ""
+    "email": "",
+    "location": "DT"
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "created_at": "2020-11-22T22:42:06.758Z",
     "updated_at": "2020-11-22T22:42:06.758Z",
     "interviewed": true,
-    "email": "brooke@reflexdc.com"
+    "email": "brooke@reflexdc.com",
+    "location": "DT"
   },
   {
     "id": 4,
@@ -41,7 +44,8 @@
     "created_at": "2020-11-22T22:42:06.767Z",
     "updated_at": "2020-11-22T22:42:06.767Z",
     "interviewed": true,
-    "email": "bryan@colloqate.org"
+    "email": "bryan@colloqate.org",
+    "location": "ATL"
   },
   {
     "id": 5,
@@ -52,7 +56,8 @@
     "created_at": "2020-11-22T22:42:06.775Z",
     "updated_at": "2020-11-22T22:42:06.775Z",
     "interviewed": true,
-    "email": "cedricdouglasdesign@gmail.com"
+    "email": "cedricdouglasdesign@gmail.com",
+    "location": "ATL"
   },
   {
     "id": 6,
@@ -63,7 +68,8 @@
     "created_at": "2020-11-22T22:42:06.784Z",
     "updated_at": "2020-11-22T22:42:06.784Z",
     "interviewed": true,
-    "email": "crudd2@id.iit.edu"
+    "email": "crudd2@id.iit.edu",
+    "location": "ATL"
   },
   {
     "id": 7,
@@ -74,7 +80,8 @@
     "created_at": "2020-11-22T22:42:06.793Z",
     "updated_at": "2020-11-22T22:42:06.793Z",
     "interviewed": true,
-    "email": "claudia@studiofuldesign.com"
+    "email": "claudia@studiofuldesign.com",
+    "location": "ATL"
   },
   {
     "id": 8,
@@ -85,7 +92,8 @@
     "created_at": "2020-11-22T22:42:06.802Z",
     "updated_at": "2020-11-22T22:42:06.802Z",
     "interviewed": true,
-    "email": "design@deniseshantebrown.com"
+    "email": "design@deniseshantebrown.com",
+    "location": "ATL"
   },
   {
     "id": 9,
@@ -96,7 +104,8 @@
     "created_at": "2020-11-22T22:42:06.811Z",
     "updated_at": "2020-11-22T22:42:06.811Z",
     "interviewed": true,
-    "email": "elleramel@gmail.com"
+    "email": "elleramel@gmail.com",
+    "location": "ATL"
   },
   {
     "id": 10,
@@ -107,7 +116,8 @@
     "created_at": "2020-11-22T22:42:06.819Z",
     "updated_at": "2020-11-22T22:42:06.819Z",
     "interviewed": true,
-    "email": "fgregg@datamade.us"
+    "email": "fgregg@datamade.us",
+    "location": "ATL"
   },
   {
     "id": 11,
@@ -118,7 +128,8 @@
     "created_at": "2020-11-22T22:42:06.827Z",
     "updated_at": "2020-11-22T22:42:06.827Z",
     "interviewed": true,
-    "email": "jwj.lin@gmail.com"
+    "email": "jwj.lin@gmail.com",
+    "location": "ATL"
   },
   {
     "id": 12,
@@ -129,7 +140,8 @@
     "created_at": "2020-11-22T22:42:06.835Z",
     "updated_at": "2020-11-22T22:42:06.835Z",
     "interviewed": true,
-    "email": "julia.kong@reflexdc.com"
+    "email": "julia.kong@reflexdc.com",
+    "location": "ATL"
   },
   {
     "id": 13,
@@ -140,7 +152,8 @@
     "created_at": "2020-11-22T22:42:06.842Z",
     "updated_at": "2020-11-22T22:42:06.842Z",
     "interviewed": true,
-    "email": "urbandreamsofmine@gmail.com"
+    "email": "urbandreamsofmine@gmail.com",
+    "location": "ATL"
   },
   {
     "id": 14,
@@ -151,7 +164,8 @@
     "created_at": "2020-11-22T22:42:06.851Z",
     "updated_at": "2020-11-22T22:42:06.851Z",
     "interviewed": true,
-    "email": "katherine@latentdesign.net"
+    "email": "katherine@latentdesign.net",
+    "location": "ATL"
   },
   {
     "id": 15,
@@ -162,7 +176,8 @@
     "created_at": "2020-11-22T22:42:06.859Z",
     "updated_at": "2020-11-22T22:42:06.859Z",
     "interviewed": true,
-    "email": "keesha.gaskins@gmail.com"
+    "email": "keesha.gaskins@gmail.com",
+    "location": "ATL"
   },
   {
     "id": 16,
@@ -173,7 +188,8 @@
     "created_at": "2020-11-22T22:42:06.867Z",
     "updated_at": "2020-11-22T22:42:06.867Z",
     "interviewed": true,
-    "email": "kdb@ds4si.org"
+    "email": "kdb@ds4si.org",
+    "location": "ATL"
   },
   {
     "id": 17,
@@ -184,7 +200,8 @@
     "created_at": "2020-11-22T22:42:06.875Z",
     "updated_at": "2020-11-22T22:42:06.875Z",
     "interviewed": true,
-    "email": "extrartinaire@gmail.com"
+    "email": "extrartinaire@gmail.com",
+    "location": "ATL"
   },
   {
     "id": 18,
@@ -195,7 +212,8 @@
     "created_at": "2020-11-22T22:42:06.883Z",
     "updated_at": "2020-11-22T22:42:06.883Z",
     "interviewed": true,
-    "email": "ndiakhate93@gmail.com"
+    "email": "ndiakhate93@gmail.com",
+    "location": "BST"
   },
   {
     "id": 19,
@@ -206,7 +224,8 @@
     "created_at": "2020-11-22T22:42:06.891Z",
     "updated_at": "2020-11-22T22:42:06.891Z",
     "interviewed": true,
-    "email": "narafat@umich.edu"
+    "email": "narafat@umich.edu",
+    "location": "BST"
   },
   {
     "id": 20,
@@ -217,7 +236,8 @@
     "created_at": "2020-11-22T22:42:06.899Z",
     "updated_at": "2020-11-22T22:42:06.899Z",
     "interviewed": true,
-    "email": "olivia.nava@gobeegroup.com"
+    "email": "olivia.nava@gobeegroup.com",
+    "location": "BST"
   },
   {
     "id": 21,
@@ -228,7 +248,8 @@
     "created_at": "2020-11-22T22:42:06.908Z",
     "updated_at": "2020-11-22T22:42:06.908Z",
     "interviewed": true,
-    "email": "sabiha@designaction.org "
+    "email": "sabiha@designaction.org ",
+    "location": "BST"
   },
   {
     "id": 22,
@@ -239,7 +260,8 @@
     "created_at": "2020-11-22T22:42:06.917Z",
     "updated_at": "2020-11-22T22:42:06.917Z",
     "interviewed": true,
-    "email": "helloshanelle@gmail.com"
+    "email": "helloshanelle@gmail.com",
+    "location": "BST"
   },
   {
     "id": 23,
@@ -250,7 +272,8 @@
     "created_at": "2020-11-22T22:42:06.925Z",
     "updated_at": "2020-11-22T22:42:06.925Z",
     "interviewed": true,
-    "email": "therealsloanleo@gmail.com"
+    "email": "therealsloanleo@gmail.com",
+    "location": "BST"
   },
   {
     "id": 24,
@@ -261,7 +284,8 @@
     "created_at": "2020-11-22T22:42:06.933Z",
     "updated_at": "2020-11-22T22:42:06.933Z",
     "interviewed": true,
-    "email": "me@stephanieariburrell.com"
+    "email": "me@stephanieariburrell.com",
+    "location": "BST"
   },
   {
     "id": 25,
@@ -272,7 +296,8 @@
     "created_at": "2020-11-22T22:42:06.942Z",
     "updated_at": "2020-11-22T22:42:06.942Z",
     "interviewed": true,
-    "email": ""
+    "email": "",
+    "location": "BST"
   },
   {
     "id": 26,
@@ -283,7 +308,8 @@
     "created_at": "2020-11-22T22:42:06.950Z",
     "updated_at": "2020-11-22T22:42:06.950Z",
     "interviewed": true,
-    "email": ""
+    "email": "",
+    "location": "BST"
   },
   {
     "id": 27,
@@ -294,7 +320,8 @@
     "created_at": "2020-11-22T22:42:06.959Z",
     "updated_at": "2020-11-22T22:42:06.959Z",
     "interviewed": true,
-    "email": "tonika.johnson@gmail.com"
+    "email": "tonika.johnson@gmail.com",
+    "location": "BST"
   },
   {
     "id": 28,
@@ -305,7 +332,8 @@
     "created_at": "2020-11-22T22:42:06.967Z",
     "updated_at": "2020-11-22T22:42:06.967Z",
     "interviewed": true,
-    "email": "veegs42@gmail.com"
+    "email": "veegs42@gmail.com",
+    "location": "BST"
   },
   {
     "id": 29,
@@ -316,7 +344,8 @@
     "created_at": "2020-11-22T22:42:06.976Z",
     "updated_at": "2020-11-22T22:42:06.976Z",
     "interviewed": true,
-    "email": ""
+    "email": "",
+    "location": "BST"
   },
   {
     "id": 30,
@@ -327,7 +356,8 @@
     "created_at": "2020-11-22T22:42:06.984Z",
     "updated_at": "2020-11-22T22:42:06.984Z",
     "interviewed": true,
-    "email": ""
+    "email": "",
+    "location": "ATL"
   },
   {
     "id": 31,
@@ -338,6 +368,7 @@
     "created_at": "2020-11-22T22:42:06.992Z",
     "updated_at": "2020-11-22T22:42:06.992Z",
     "interviewed": true,
-    "email": ""
+    "email": "",
+    "location": "DT"
   }
 ]
